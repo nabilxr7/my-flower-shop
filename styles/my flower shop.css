@@ -108,3 +108,38 @@ align-items: center
     flex-shrink: 0;
 
 }
+.boss{width: 1200px;
+    height: 300px;
+    flex-shrink: 0;
+margin-left: 10px;
+
+}
+.circle{text-align: center;
+    
+
+
+}
+
+.new{width: 700px;
+    height: 64px;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    
+    text-align: center;
+    margin-left: 25%;
+
+}
+.foter{text-align: center;
+    margin-right: 100%;
+    color: white;
+    background-color: black;
+    width: 1400px;
+height: 320px;
+flex-shrink: 0;
+padding-top: 10%;
+
+
+}
+.foter-title{
+    color: #E55473;
+}
